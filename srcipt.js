@@ -29,84 +29,8 @@ const cursorDot = document.querySelector(".cursor-dot");
             { duration: 800, fill: "forwards" }
         );
     });
-        // Define the animation inside the mousemove event
-    ///mouse end
-    ///gsap library for animation
+        
   
-    // gsap.from(".discount",{duration:1,x:'-300%',delay:2});
-    // gsap.from(".brand",{duration:1,x:'-300%'});
-    // gsap.from(".socialicon",{duration:1,x:"-300%"});
-    // gsap.from(".profile",{duration:1,x:'200%'});
-
-    // gsap.registerPlugin(ScrollTrigger)
-    // gsap.from('.box', {
-    //       scrollTrigger:{
-    //       trigger:".box",
-    //       toggleActions: "restart none none none",
-    //       },
-    //       x:"-400%",
-    //       duration:2
-    //   });
-     
-    //   gsap.registerPlugin(ScrollTrigger)
-    //   gsap.from('.imgtext', {
-    //     scrollTrigger:{
-    //     trigger:".imgtext",
-    //     toggleActions: "restart none none none",
-    //     },
-    //     x:"400%",
-    //     duration:1.2
-    // });
-    // gsap.registerPlugin(ScrollTrigger)
-    // gsap.from('.imgtext2', {
-    //     scrollTrigger:{
-    //     trigger:".imgtext2",
-    //     toggleActions: "restart none none none",
-    //     },
-    //     x:"400%",
-    //     duration:2,
-    //     delay:0.5
-    // });
-    // gsap.registerPlugin(ScrollTrigger)
-    // gsap.from('.gym', {
-    //     scrollTrigger:{
-    //     trigger:".gym",
-    //     toggleActions: "restart none none none",
-    //     },
-    //     x:"400%",
-    //     duration:2
-    // });
-
-    // gsap.registerPlugin(ScrollTrigger)
-    // gsap.from('.gym2', {
-    //     scrollTrigger:{
-    //     trigger:".gym2",
-    //     toggleActions: "restart none none none",
-    //     },
-    //     x:"-400%",
-    //     duration:2,
-    // });
-    
-
-    // gsap.registerPlugin(ScrollTrigger)
-    // gsap.from('.comp1', {
-    //     scrollTrigger:{
-    //     trigger:".gym2",
-    //     toggleActions: "restart none none none",
-    //     },
-    //     x:"-400%",
-    //     duration:2,
-    // });
-
-    // gsap.registerPlugin(ScrollTrigger)
-    // gsap.from('.comp2', {
-    //     scrollTrigger:{
-    //     trigger:".gym",
-    //     toggleActions: "restart none none none",
-    //     },
-    //     x:"400%",
-    //     duration:2
-    // });
 
     // ///end
  
